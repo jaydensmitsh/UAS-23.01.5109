@@ -1,0 +1,2 @@
+DEBUG - 2025-01-24 00:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-24 00:23:10 --> Data diterima: id=18, nim=112233, nama=Gepeng haik, email=gepeng@gmail.com, alamat=jl.americano, nilai=1000
